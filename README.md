@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Rishav Mondal and I'm a Full-stack Developer.
+
+As a dedicated Fullstack Developer, I excel in creating seamless and efficient digital experiences, whether it's on the frontend or backend. My coding journey is driven by a passion for innovation and problem-solving.
+
+Outside of coding, I immerse myself in the world of computer games, finding both relaxation and inspiration. 
+
+Let's push the boundaries of what's possible and build the future, one project at a time.
+
 <!--
 **CallSignRishav/CallSignRishav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
