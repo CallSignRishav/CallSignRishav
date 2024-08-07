@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1>## Hi there 👋</h1>
 
-My name is Rishav Mondal and I'm a Full-stack Developer.
+<h2>My name is Rishav Mondal and I'm a Full-stack Developer.</h2>
 
 As a dedicated Fullstack Developer, I excel in creating seamless and efficient digital experiences, whether it's on the frontend or backend. My coding journey is driven by a passion for innovation and problem-solving.
 
