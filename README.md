@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack developer from Kolkata, India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning **DevOps**<br><br>As a dedicated Full-stack Developer, <br>I excel in creating seamless and efficient digital experiences, <br>whether it's on the frontend or backend. <br><br>My coding journey is driven by a passion for innovation and problem-solving.<br><br>Outside of coding, I immerse myself in the world of computer games, <br>finding both relaxation and inspiration. <br><br>
+🌱 I’m currently learning **DevOps**<br><br>My coding journey is driven by a passion for innovation and problem-solving.<br><br>Outside of coding, I immerse myself in the world of computer games, <br>finding both relaxation and inspiration. <br><br>
 
 
 ## 🌐 Socials:
