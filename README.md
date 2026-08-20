@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishav Mondal</h1>
-<h3 align="center">Full Stack Web Developer | Kolkata, India</h3>
+<h1 align="center">Rishav Mondal 👨‍💻</h1>
+<h3 align="center">Turning ideas into fast, reliable web experiences</h3>
 
 # 💫 About Me:
 I'm a full-stack web developer building clean, fast, and maintainable web applications. Right now I'm crafting modern client projects end-to-end at **Avira Digital Studios** — frontend and backend alike — with a focus on optimized, production-ready code.
