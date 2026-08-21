@@ -2,6 +2,7 @@
 <h3 align="center">Turning ideas into fast, reliable web experiences</h3>
 
 # 💫 About Me:
+
 I'm a full-stack web developer building clean, fast, and maintainable web applications. Right now I'm crafting modern client projects end-to-end at **Avira Digital Studios** — frontend and backend alike — with a focus on optimized, production-ready code.
 
 - 🔨 **Currently building** — full-stack web apps with React, Next.js, TypeScript, Node.js & PostgreSQL
@@ -9,6 +10,7 @@ I'm a full-stack web developer building clean, fast, and maintainable web applic
 - ⚡ **Edge** — I integrate Generative AI into my daily workflow to boost productivity and performance
 
 # ⚡ AI-Augmented Development:
+
 I've integrated Generative AI into my everyday workflow. AI coding assistants help me catch bugs earlier, write cleaner code, and cut through repetitive boilerplate, which frees me to focus on architecture and real problem-solving. Pairing solid fundamentals with AI-driven efficiency has measurably boosted my productivity and is helping my performance as a developer grow faster with every project.
 
 # 💻 Tech Stack:
@@ -29,9 +31,13 @@ I've integrated Generative AI into my everyday workflow. AI coding assistants he
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
 # 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishavmondal5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/callsign_rishav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishav_mondal05/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CallSignRishav&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
