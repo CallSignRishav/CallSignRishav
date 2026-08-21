@@ -36,8 +36,5 @@ I've integrated Generative AI into my everyday workflow. AI coding assistants he
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CallSignRishav&theme=cobalt&hide_border=false)<br/>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CallSignRishav&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
