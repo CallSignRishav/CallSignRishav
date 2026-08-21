@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-I'm a full-stack web developer building clean, fast, and maintainable web applications. Right now I'm crafting modern client projects end-to-end at **Avira Digital Studios** — frontend and backend alike — with a focus on optimized, production-ready code.
+I'm a full-stack web developer building clean, fast, and maintainable web applications. Right now I'm crafting modern client projects end-to-end at **Avira Digital Studios** - frontend and backend alike - with a focus on optimized, production-ready code.
 
-- 🔨 **Currently building** — full-stack web apps with React, Next.js, TypeScript, Node.js & PostgreSQL
-- 🌱 **Currently learning** — DevOps
-- ⚡ **Edge** — I integrate Generative AI into my daily workflow to boost productivity and performance
+- 🔨 **Currently building** - Full-stack web apps with React, Next.js, TypeScript, Node.js & PostgreSQL
+- 🌱 **Currently learning** - DevOps
+- ⚡ **Edge** - I integrate Generative AI into my daily workflow to boost productivity and performance
 
 # ⚡ AI-Augmented Development:
 
